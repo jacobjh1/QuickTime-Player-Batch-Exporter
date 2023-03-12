@@ -53,8 +53,6 @@ on exportWithQuickTimePlayer(inFiles, outDir, outFormat, outExtension)
 			delay 0.25
 			tell windows to close
 		end repeat
-		delay 2
-		quit
 	end tell
 end exportWithQuickTimePlayer
 
